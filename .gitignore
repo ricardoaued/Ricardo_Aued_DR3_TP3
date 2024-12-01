@@ -1,0 +1,19 @@
+# .gitignore
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Ambiente Virtual
+venv/
+env/
+
+# Configurações do Ambiente
+*.env
+
+# Arquivos do PyCharm (se estiver usando)
+.idea/
+
+# Outros arquivos ou diretórios que você deseja ignorar
